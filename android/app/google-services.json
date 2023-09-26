@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1053500937375",
+    "project_id": "wrafi-studios",
+    "storage_bucket": "wrafi-studios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053500937375:android:78ee5062d029642a0ebeaa",
+        "android_client_info": {
+          "package_name": "com.WrafiStudios.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053500937375-5vgav2nj6pvncujcnaf86ukiekgh8fg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.WrafiStudios.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1053500937375-d0879mfbseq7v67ia8a3rb9bdgp3re6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb3VWdbxLZ6VUlef81NflHZ2QssXdSXJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053500937375-d0879mfbseq7v67ia8a3rb9bdgp3re6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1053500937375-76s1b931ingdjlfavhru37dd5a3jt4on.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wrafirucker.ios",
+                "app_store_id": "1572555172"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
